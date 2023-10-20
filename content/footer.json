@@ -1,0 +1,53 @@
+{
+	"outboundLinks": [
+		{ 
+			"header": "PHS Computer Team Website",
+			"link": "https://phscomputerteam.org",
+			"note": "Created by Agneya Tharun"
+		},
+		{ 
+			"header": "PHS Cyber Lab Website",
+			"link": "https://phscyberlab.org",
+			"note": "Created by Agneya Tharun"
+		},
+		{ 
+			"header": "Thanks to Vercel",
+			"link": "https://vercel.com/docs",
+			"note": "They host ALL my stuff."
+		}
+	],
+
+	"links": [
+		{ 
+			"person": "Home",
+			"link": "/",
+			"note": "Start here."
+		},
+		{ 
+			"person": "About Me",
+			"link": "#aboutme",
+			"note": "Who am I?"
+		},
+		{ 
+			"person": "Projects",
+			"link": "#projects",
+			"note": "Check out my projects!"
+		}
+	],
+
+	"social": [
+		{
+			"url": "https://www.instagram.com/agneya_t/",
+			"icon": "instagram"
+		},
+		{
+			"url": "https://github.com/Vort3xed",
+			"icon": "github"
+		},
+		{
+			"url": "https://www.linkedin.com/in/agneya-tharun-408a14276/",
+			"icon": "linkedin"
+		}
+		
+	]
+}

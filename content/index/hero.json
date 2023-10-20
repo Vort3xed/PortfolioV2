@@ -1,0 +1,44 @@
+{
+	"intro": {
+		"start": "const Agneya = ( name, passion ) =>",
+		"middle1": "System.out.println(Agneya.name + \" \" + Agneya.passion);",
+		"middle2": "console.log(Agneya.name + \" \" + Agneya.passion);",
+		"end": "Hello, my name is",
+		"speed": 60,
+		"deletionSpeed": 80,
+		"wrapper": "h2",
+		"startDelay": 1000,
+		"deleteDelay": 3000,
+		"restartDelay": 12000
+	},
+
+	"header": {
+		"name": "Agneya Tharun",
+		"usp": "Cybersecurity Specialist & Full Stack Developer"
+	},
+
+	"paragraph": "I am a student at Poolesville High School, currently enrolled in the SMCS magnet program. I enjoy computer programming and cyber security.",
+
+	"buttons": {
+		"primary": {
+			"title": "Contact Me",
+			"url": "",
+			"leaveSite": "false"
+		},
+		"secondary": {
+			"title": "LinkedIn",
+			"url": "",
+			"leaveSite": "true"
+		},
+		"tertiary": {
+			"title": "GitHub",
+			"url": "",
+			"leaveSite": "true"
+		},
+		"quaternary": {
+			"title": "Instagram",
+			"url": "",
+			"leaveSite": "true"
+		}
+	}
+}

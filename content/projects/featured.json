@@ -1,0 +1,109 @@
+[
+	{
+		"project": "HeadHunterV4",
+		"url": "https://github.com/Vort3xed/HeadHunterV4",
+		"repo": "Public",
+		"descriptionTitle": "Suite of machine learning models that can detect neurodegenerative diseases using images. ",
+		"description": "Allows generation of detection heatmaps and uncertainty classification.",
+		"imageOptions": [
+		],
+		"images": [
+			{ "key": "headhunter",	"hover": "right", 	"h": "400", "w": "400", "url": "/img/projectImages/headhunter1.png" },
+			{ "key": "headhunter",	"hover": "left",	"h": "400", "w": "400", "url": "/img/projectImages/headhunter2.png" }
+		],
+		"stack": [
+			{ "key": "python", 		"name": "Python", 		"type": "devicon" },
+			{ "key": "tensorflow",	"name": "Tensorflow", 	"type": "devicon" },
+			{ "key": "seaborn",		"name": "Seaborn", 		"type": "devicon" },
+			{ "key": "numpy",		"name": "Numpy", 		"type": "devicon" },
+			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" },
+			{ "key": "jupyter notebook",	"name": "Jupyter Notebook", 	"type": "devicon" }
+		]
+	},
+	{
+		"project": "FalconMailV5",
+		"url": "https://github.com/Vort3xed/FalconMailV5",
+		"repo": "Public",
+		"descriptionTitle": "A rapid, customizable emailling application written in java.",
+		"description": "Uses templates to send emails and updates a spreadsheet. Uses Google OAUTH2.0 ",
+		"imageOptions": [
+			{ "key": "size", 		"value": "large" }
+		],
+		"images": [
+			{ "key": "fmailer", "hover": "right", "h": "550", "w": "650",  "url": "/img/projectImages/falconmailjava2.png" },
+			{ "key": "fmailer", "hover": "left", "h": "550", "w": "650",  "url": "/img/projectImages/falconmailjava3.png" }
+		],
+		"stack": [
+			{ "key": "java", 		"name": "Java", 		"type": "devicon" },
+			{ "key": "javafx", 		"name": "JavaFX", 		"type": "devicon" },
+			{ "key": "gauth", 		"name": "Google OAUTH", 	"type": "devicon" },
+			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" },
+			{ "key": "maven", 		"name": "maven", 		"type": "devicon" }
+		]
+	},
+	{
+		"project": "www.phscomputerteam.org",
+		"url": "https://github.com/Vort3xed/PHS-Computer-Team",
+		"repo": "Public",
+		"descriptionTitle": "A stylistic website with animations.",
+		"description": "Currently hosted on Google Domains",
+		"imageOptions": [
+			{ "key": "size", 		"value": "large" }
+		],
+		"images": [
+			{ "key": "phscompteam", "hover": "right", "h": "350", "w": "600",  "url": "/img/projectImages/phscompteam1.png" },
+			{ "key": "phscompteam", "hover": "left", "h": "350", "w": "600",  "url": "/img/projectImages/phscompteam2.png" }
+		],
+		"stack": [
+			{ "key": "nextjs", 		"name": "Next.js", 		"type": "devicon" },
+			{ "key": "react", 		"name": "React", 		"type": "devicon" },
+			{ "key": "nodejs", 		"name": "Node.js", 		"type": "devicon" },
+			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
+			{ "key": "css3",		"name": "CSS3", 		"type": "devicon" },
+			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" }
+		]
+	},
+	{
+		"project": "smartiep.herokuapp.com",
+		"url": "https://github.com/Vort3xed/SmartIEPv1",
+		"repo": "Public",
+		"descriptionTitle": "A web application that allows teachers to create and store IEPs for students.",
+		"description": "This Flask app is hosted on Heroku with a PostgreSQL database.",
+		"imageOptions": [
+			{ "key": "size", 		"value": "large" }
+		],
+		"images": [
+			{ "key": "smartiep", "hover": "right", "h": "400", "w": "800",  "url": "/img/projectImages/smartiepgoals.png" },
+			{ "key": "smartiep", "hover": "left", "h": "530", "w": "800",  "url": "/img/projectImages/smartiepgraph.png" }
+		],
+		"stack": [
+			{ "key": "python", 		"name": "Python", 		"type": "devicon" },
+			{ "key": "flask", 		"name": "Flask", 		"type": "devicon" },
+			{ "key": "Bootstrap", 	"name": "Bootstrap",    "type": "devicon" },
+			{ "key": "PostgreSQL", 	"name": "PostgreSQL", 	"type": "devicon" },
+			{ "key": "HTML", 		"name": "HTML", 		"type": "devicon" },
+			{ "key": "css3",		"name": "CSS3", 		"type": "devicon" },
+			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" }
+		]
+	},
+	{
+		"project": "HERCULES",
+		"url": "https://github.com/Vort3xed/HERCULES",
+		"repo": "Public",
+		"descriptionTitle": "A wifi bruteforcing application that uses machine learning to predict passwords.",
+		"description": "Uses the name of the network to predict passwords using GPT3 integration.",
+		"imageOptions": [
+			{ "key": "size", 		"value": "large" }
+		],
+		"images": [
+			{ "key": "phscompteam", "hover": "right", "h": "500", "w": "700",  "url": "/img/projectImages/hercules2.png" },
+			{ "key": "phscompteam", "hover": "left", "h": "500", "w": "700",  "url": "/img/projectImages/hercules1.png" }
+		],
+		"stack": [
+			{ "key": "python", 		"name": "Python", 		"type": "devicon" },
+			{ "key": "networking", 	"name": "Networking", 	"type": "devicon" },
+			{ "key": "gpt3", 		"name": "GPT3", 		"type": "devicon" },
+			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" }
+		]
+	}
+]
