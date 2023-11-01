@@ -1,7 +1,7 @@
 [
 	{
 		"project": "HeadHunterV4",
-		"url": "https://github.com/Vort3xed/HeadHunterV4",
+		"url": "https://github.com/Vort3xed/Head-Hunter",
 		"repo": "Public",
 		"descriptionTitle": "Suite of machine learning models that can detect neurodegenerative diseases using images. ",
 		"description": "Allows generation of detection heatmaps and uncertainty classification.",
