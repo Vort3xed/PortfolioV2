@@ -24,7 +24,7 @@
 		"project": "FalconMailV5",
 		"url": "https://github.com/Vort3xed/FalconMailV5",
 		"repo": "Public",
-		"descriptionTitle": "A rapid, customizable emailling application written in java.",
+		"descriptionTitle": "A rapid, customizable emailing application written in java.",
 		"description": "Uses templates to send emails and updates a spreadsheet. Uses Google OAUTH2.0 ",
 		"imageOptions": [
 			{ "key": "size", 		"value": "large" }
@@ -64,7 +64,7 @@
 		]
 	},
 	{
-		"project": "smartiep.herokuapp.com",
+		"project": "smartiep.onrender.com",
 		"url": "https://github.com/Vort3xed/SmartIEPv1",
 		"repo": "Public",
 		"descriptionTitle": "A web application that allows teachers to create and store IEPs for students.",
@@ -91,7 +91,7 @@
 		"url": "https://github.com/Vort3xed/HERCULES",
 		"repo": "Public",
 		"descriptionTitle": "A wifi bruteforcing application that uses machine learning to predict passwords.",
-		"description": "Uses the name of the network to predict passwords using GPT3 integration.",
+		"description": "Utilizes GPT-3 integration to predict passwords by leveraging the network's name.",
 		"imageOptions": [
 			{ "key": "size", 		"value": "large" }
 		],
