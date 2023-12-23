@@ -92,6 +92,7 @@
 
 
 		}
+
 		
 		// Columns
 		.image {
@@ -99,6 +100,14 @@
 			flex-grow: 1;
 			flex-shrink: 1;
 			position: relative;
+
+			.unit {
+				// padding: var(--padding);
+				// --padding: 2rem;
+				// --padding-top: var(--padding);
+				padding-top: 1rem;
+			}
+			
 
 			img {
 				height: 100%;

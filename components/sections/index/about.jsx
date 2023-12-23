@@ -34,18 +34,23 @@ export default function About() {
 				/>
 				<section className={about.content}>
 					<div className={about.image}>
+
+						{/* <img src="/img/agneya2.jpg" alt="Me!"/> */}
+						<Image className="mb-2" src="/img/agneya3.jpg" width={425} height={425}/>
 						
-						<BadgesBlock 
-							title="Web Development Skills" 
-							containerClass={about.container}
-							list={webdevskills} 
-							fullContainer="fullContainer"
-							block="methods" 
-							icon="code"
-							copy=""
-							//invertedColor="invertedColor"
-							headerIcon={`${about.icon}`}
-						/>
+						<div className={about.unit}>
+							<BadgesBlock 
+								title="Web Development Skills" 
+								containerClass={about.container}
+								list={webdevskills} 
+								fullContainer="fullContainer"
+								block="methods" 
+								icon="code"
+								copy=""
+								//invertedColor="invertedColor"
+								headerIcon={`${about.icon}`}
+							/>
+						</div>
 					</div>
 					<div className={about.copy} >
 						<BadgesBlock 
