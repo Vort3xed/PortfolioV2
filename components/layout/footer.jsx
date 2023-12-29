@@ -33,7 +33,7 @@ export default function Footer() {
 			<Container spacing={['verticalXXLrg', 'bottomLrg']}>
 				<section className={css.sections}>
 					<ul className={css.thanks}>
-						<li><h4>Acknowledgments</h4></li>
+						<li><h4>My Stuff</h4></li>
 						{
 						content.outboundLinks.map( ({ header, link, note }, index) => {
 							return (

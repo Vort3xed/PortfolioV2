@@ -3,17 +3,17 @@
 		{ 
 			"header": "PHS Computer Team Website",
 			"link": "https://phscomputerteam.org",
-			"note": "Created by Agneya Tharun"
+			"note": "Website I created for the PHS Computer Team."
 		},
 		{ 
 			"header": "PHS Cyber Lab Website",
 			"link": "https://phscyberlab.org",
-			"note": "Created by Agneya Tharun"
+			"note": "Website I created the club I founded."
 		},
 		{ 
-			"header": "Thanks to Vercel",
-			"link": "https://vercel.com/docs",
-			"note": "They host ALL my stuff."
+			"header": "SmartIEP",
+			"link": "https://smartiep.onrender.com",
+			"note": "Web app I created for my school's special education department."
 		}
 	],
 
