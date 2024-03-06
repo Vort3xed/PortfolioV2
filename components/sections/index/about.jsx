@@ -30,7 +30,7 @@ export default function About() {
 				<SectionTitle
 					title="About Me"
 					preTitle="Synopsis"
-					subTitle="I am a student at Poolesville High School in the SMCS magnet program. I enjoy computer programming and cybersecurity."
+					subTitle="I am a student at Poolesville High School, currently enrolled in the SMCS magnet program. I enjoy computer programming, cyber security, machine learning, and data science!"
 				/>
 				<section className={about.content}>
 					<div className={about.image}>
