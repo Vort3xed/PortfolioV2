@@ -36,7 +36,7 @@ export default function About() {
 					<div className={about.image}>
 
 						{/* <img src="/img/agneya2.jpg" alt="Me!"/> */}
-						<Image className="mb-2" src="/img/agneya3.jpg" width={425} height={425}/>
+						<Image className="mb-2" src="/img/alaskacropped.jpg" width={425} height={425}/>
 						
 						<div className={about.unit}>
 							<BadgesBlock 
