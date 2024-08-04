@@ -87,14 +87,15 @@ const languages	= [
 	{ key: 'code', 				name: 'Javascript', 	type: 'fad' },
 	{ key: 'snake', 			name: 'Python', 	type: 'fad' },
 	{ key: 'cubes', 			name: 'PostgreSQL', 	type: 'far' },
-	{ key: 'cubes', 			name: 'MySQL', 	type: 'fad' },
 	{ key: 'file-code', 		name: 'CSS', 		type: 'fad' },
-	{ key: 'brain', 			name: 'Machine Learning', 		type: 'fad' }
+	{ key: 'brain', 			name: 'TensorFlow', 		type: 'fad' },
+	{ key: 'brain', 			name: 'PyTorch', 		type: 'fad' }
 ]
 
 const webdevskills = [
 	{ key: 'rectangle-code', 		name: 'React.js', 		type: 'fad' },
 	{ key: 'rectangle-code', 		name: 'Next.js', 	type: 'fad' },
+	{ key: 'rectangle-code', 		name: 'Flask', 	type: 'fad' },
 	{ key: 'code-merge', 			name: 'Git', 	type: 'fad' },
 	{ key: 'file-code', 			name: 'Tailwind CSS', 	type: 'far' },
 	{ key: 'code', 					name: 'HTML', 	type: 'fad' },
@@ -109,5 +110,5 @@ const cyberskills = [
 	{ key: 'magnifying-glass', 		name: 'Forensics', 	type: 'far' },
 	{ key: 'wifi-slash', 			name: 'Network Penetration', 	type: 'fad' },
 	{ key: 'horse-saddle', 			name: 'Trojan Engineering', 		type: 'fad' },
-	{ key: 'router', 				name: 'Able to Configure Cisco Devices', 		type: 'fad' }
+	{ key: 'router', 				name: 'Cisco Configuration', 		type: 'fad' }
 ]

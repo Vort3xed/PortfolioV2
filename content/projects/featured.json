@@ -21,6 +21,30 @@
 		]
 	},
 	{
+		"project": "RedBook",
+		"url": "https://github.com/Vort3xed/RedBook-Pro",
+		"repo": "Public",
+		"descriptionTitle": "Webapp that helps students train for the DSAT using released questions.",
+		"description": "Uses Firebase to store questions and uses an advanced algorithm for converting CollegeBoard's PDFs to JSON.",
+		"imageOptions": [
+		],
+		"images": [
+			{ "key": "headhunter",	"hover": "right", 	"h": "400", "w": "800", "url": "/img/projectImages/redbookincorrect.png" },
+			{ "key": "headhunter",	"hover": "left",	"h": "400", "w": "800", "url": "/img/projectImages/redbookquiz.png" }
+		],
+		"stack": [
+			{ "key": "python", 		"name": "Python", 		"type": "devicon" },
+			{ "key": "flask",	"name": "Flask", 	"type": "devicon" },
+			{ "key": "tailwind",		"name": "TailwindCSS", 		"type": "devicon" },
+			{ "key": "html",		"name": "HTML", 		"type": "devicon" },
+			{ "key": "javascript",			"name": "Javascript", 	"type": "devicon" },
+			{ "key": "jinja",			"name": "Jinja", 	"type": "devicon" },
+			{ "key": "firebase",			"name": "Firebase", 	"type": "devicon" },
+			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" }
+
+		]
+	},
+	{
 		"project": "FalconMailV5",
 		"url": "https://github.com/Vort3xed/FalconMailV5",
 		"repo": "Public",
